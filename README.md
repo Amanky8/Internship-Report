@@ -32,4 +32,4 @@ This project focuses on the **dynamic modelling and control** of a biogas-fed **
 
 ## 📑 Report
 The full internship report can be found here:  
-[📄 Download Report](./Report.pdf)
+[📄 Report](./Report.pdf)
